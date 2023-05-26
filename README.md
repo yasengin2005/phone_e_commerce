@@ -1,4 +1,4 @@
-https://phone-e-commerce-site-73815.netlify.app/cart
+https://phone-e-commerce-site-73815.netlify.app/
 
 # Getting Started with Create React App
 
